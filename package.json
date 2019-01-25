@@ -1,0 +1,11 @@
+{
+    "name": "r6-battle-bot",
+    "version": "1.0.0",
+    "description": "bot that scraps r6 tracker and can do stuff with the data",
+    "main": "r6BattleBot.js",
+    "author": "Manik747",
+    "dependencies": {
+        "discord.io": "^2.5.3",
+        "winston": "^3.1.0"
+    }
+}
